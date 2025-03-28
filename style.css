@@ -2,6 +2,8 @@ body {
     margin: 0;
 }
 
+/*First section of the page */
+
 .section-hero {
     font-family: 'Roboto', sans-serif;
     background-color: #1f2937;
@@ -77,4 +79,33 @@ a {
     color: #e5e7eb;
     text-decoration: none;
     font-size: 18px;
+}
+
+/*Second section of the page */
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+
+.box {
+    width: 150px;
+    height: 150px;
+    border: 3px solid rgb(47, 76, 236);
+    border-radius: 8px;
+
+}
+
+.box-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box-container {
+    display: flex;
+    justify-content: space-between;
+
 }
