@@ -179,7 +179,7 @@ h1 {
 }
 
 /*Footer section of the page(CTA)*/
-.footer{
+.footer {
     background-color: #1f2937;
     color: #E5E7EB;
     display: flex;
@@ -188,5 +188,5 @@ h1 {
     justify-content: center;
     align-items: center;
     margin-top: 60px;
-    
+
 }
